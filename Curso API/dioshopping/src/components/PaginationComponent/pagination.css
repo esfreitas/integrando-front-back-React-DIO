@@ -1,0 +1,11 @@
+.paginationButton {
+    background-color: white;
+    border: 1px solid black;
+    margin: 5px;
+    cursor: pointer;
+}
+
+
+.paginationButton:hover {
+    background-color: lightgray
+}
